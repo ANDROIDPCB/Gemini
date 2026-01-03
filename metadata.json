@@ -1,0 +1,7 @@
+{
+  "name": "Zenith Gesture Particles",
+  "description": "A high-performance 3D particle system using Three.js and Gemini AI for real-time hand gesture interaction. Control particle diffusion and shapes with your camera.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
